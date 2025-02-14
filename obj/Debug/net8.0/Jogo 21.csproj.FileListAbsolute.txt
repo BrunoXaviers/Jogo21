@@ -13,3 +13,18 @@ C:\Users\spxcl\source\repos\Jogo 21\Jogo 21\obj\Debug\net8.0\refint\Jogo 21.dll
 C:\Users\spxcl\source\repos\Jogo 21\Jogo 21\obj\Debug\net8.0\Jogo 21.pdb
 C:\Users\spxcl\source\repos\Jogo 21\Jogo 21\obj\Debug\net8.0\Jogo 21.genruntimeconfig.cache
 C:\Users\spxcl\source\repos\Jogo 21\Jogo 21\obj\Debug\net8.0\ref\Jogo 21.dll
+C:\Users\T_SantBX\source\repos\Jogo21\bin\Debug\net8.0\Jogo 21.exe
+C:\Users\T_SantBX\source\repos\Jogo21\bin\Debug\net8.0\Jogo 21.deps.json
+C:\Users\T_SantBX\source\repos\Jogo21\bin\Debug\net8.0\Jogo 21.runtimeconfig.json
+C:\Users\T_SantBX\source\repos\Jogo21\bin\Debug\net8.0\Jogo 21.dll
+C:\Users\T_SantBX\source\repos\Jogo21\bin\Debug\net8.0\Jogo 21.pdb
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.AssemblyInfoInputs.cache
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.AssemblyInfo.cs
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.csproj.CoreCompileInputs.cache
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.sourcelink.json
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.dll
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\refint\Jogo 21.dll
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.pdb
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\Jogo 21.genruntimeconfig.cache
+C:\Users\T_SantBX\source\repos\Jogo21\obj\Debug\net8.0\ref\Jogo 21.dll

@@ -8,6 +8,14 @@ namespace Jogo_21
 {
     internal class Jogo21
     {
-        Jogador 
+        public static void logicaJogo()
+        {
+            Jogador jogo = new Jogador();
+            int jogador = jogo.pontuacao;
+            int computador = jogo.pontuacao;
+            Console.WriteLine(jogador + " " + computador);
+        }
+        
+
     }
 }

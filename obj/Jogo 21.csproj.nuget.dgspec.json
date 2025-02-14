@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spxcl\\source\\repos\\Jogo 21\\Jogo 21\\Jogo 21.csproj": {}
+    "C:\\Users\\T_SantBX\\source\\repos\\Jogo21\\Jogo 21.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spxcl\\source\\repos\\Jogo 21\\Jogo 21\\Jogo 21.csproj": {
+    "C:\\Users\\T_SantBX\\source\\repos\\Jogo21\\Jogo 21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spxcl\\source\\repos\\Jogo 21\\Jogo 21\\Jogo 21.csproj",
+        "projectUniqueName": "C:\\Users\\T_SantBX\\source\\repos\\Jogo21\\Jogo 21.csproj",
         "projectName": "Jogo 21",
-        "projectPath": "C:\\Users\\spxcl\\source\\repos\\Jogo 21\\Jogo 21\\Jogo 21.csproj",
-        "packagesPath": "C:\\Users\\spxcl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spxcl\\source\\repos\\Jogo 21\\Jogo 21\\obj\\",
+        "projectPath": "C:\\Users\\T_SantBX\\source\\repos\\Jogo21\\Jogo 21.csproj",
+        "packagesPath": "C:\\Users\\T_SantBX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T_SantBX\\source\\repos\\Jogo21\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\spxcl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\T_SantBX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
